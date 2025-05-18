@@ -1,2 +1,2 @@
 # simple-devops-project
-learning a project
+learning a project yes
